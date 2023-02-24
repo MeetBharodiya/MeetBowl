@@ -1,0 +1,32 @@
+/* Module css */
+.navbar{
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logoutButton{
+    background: none;
+    border: none;
+   cursor: pointer;
+}
+
+.navRight{
+    display: flex;
+    align-items: center;
+
+}
+
+.avatar{
+    width: 40px;
+    height: 40px;
+    border: 3px solid #0077ff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    object-fit: cover;
+    margin :0 20px;
+    margin-right: 10px;
+}

@@ -1,3 +1,3 @@
 # MeetBowl
-this very good project
+this very good project from dev group
  
